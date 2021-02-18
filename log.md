@@ -21,6 +21,16 @@
 
 ### Day 1: 17 February, Wednesday
 
+**Today's Progress**: . Worked On Node Js API Via FreeCodeCamp
+
+**Thoughts** .It was great Learning , Tomorrrow's Target GraphQL 
+
+**Link(s) to work**
+Link Available on 19 february
+
+
+### Day 2: 18 February, Thursday
+
 **Today's Progress**: .
 
 **Thoughts** .
